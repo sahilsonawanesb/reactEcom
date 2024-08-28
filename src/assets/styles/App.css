@@ -1,0 +1,13 @@
+#root {
+  max-width: 100%;
+  min-width: 550px;
+  height: 100%;
+  margin: 0 ;
+  padding: 0;
+}
+
+.selectSort{
+  width: 100%;
+  text-align: right;
+  margin: 3% -10px 1%;
+}
